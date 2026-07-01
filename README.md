@@ -22,15 +22,15 @@ I work at the intersection of ML systems and neuroscience, from biomedical NLP p
 
 ## Some Projects I'm Particularly Proud Of
 
-Clueless — AI-powered web navigation assistant that maps any webapp into a Neo4j knowledge graph, then lets you ask in plain English or by voice how to do something and highlights exactly what to click. Built with Claude, RAG over Pinecone, and Cerebras for inference. Built at HackMIT, won the Wispr Flow track.
+Clueless — AI-powered web navigation assistant that maps any webapp into a Neo4j knowledge graph, then lets you ask in plain English or by voice how to do something and highlights exactly what to click. Built with Claude, RAG over Pinecone, and Cerebras for inference. Built at HackMIT, won the Wispr Flow track. [Repo](https://github.com/prat-core/clueless)
 
-Few Word Do Trick — EEG-to-LLM pipeline with a LangGraph StateGraph agent and a leakage-aware ML pipeline, with voice output through ElevenLabs. Won the Lava track at CalHacks. [Repo](https://github.com/TC960/FewWordDoTrick)
+Few Word Do Trick — EEG-to-LLM pipeline with a LangGraph StateGraph agent and a leakage-aware ML pipeline, with voice output through ElevenLabs. Won the Lava track at CalHacks. [Repo](https://github.com/ianalin123/few-word-do-trick)
 
 Winnow — Multi-path prompt compression pipeline built at Berkeley's AI Hackathon. Runs several compression methods (LLMLingua-2, LongLLMLingua, AttentionRAG) in parallel and merges their decisions, then optionally routes to a KV-cache-compressed model via TurboQuant and LCLM. [Repo](https://github.com/TC960/winnow)
 
-TaxDaddy — Real-time voice-driven tax assistant with streaming OCR and fraud detection. Placed 3rd at Hacklytics.
+TaxDaddy — Real-time voice-driven tax assistant with streaming OCR and fraud detection. Placed 3rd at Hacklytics. [Repo](https://github.com/NSP909/taxerino)
 
-See With Me — Digital forensics tool that streams live footage from Meta Ray-Bans through a fine-tuned YOLOv11n model to detect and track objects of interest, with LLM-generated captions and a searchable keyframe database. Built at Bitcamp 2025.
+See With Me — Digital forensics tool that streams live footage from Meta Ray-Bans through a fine-tuned YOLOv11n model to detect and track objects of interest, with LLM-generated captions and a searchable keyframe database. Built at Bitcamp 2025. [Repo](https://github.com/ritesh3280/bitcamp25)
 
 QA Smith — Crawls a website and uses Claude to auto-generate production-ready Playwright tests, smoke, logic, and load, backed by a Neo4j graph of the site structure. Built at the Claude Builder Club @ UCSD 48 Hour Build Challenge. [Repo](https://github.com/TC960/QAsmith)
 
